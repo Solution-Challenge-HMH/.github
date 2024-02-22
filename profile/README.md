@@ -72,10 +72,11 @@ However, the current landscape of exercise services primarily caters to those wi
 
 In response, our service aims to enhance health accessibility by providing personalized exercise recommendations based on users' physical characteristics and disability types. Furthermore, the exercise history calendar empowers users to efficiently manage and enhance their exercise plans. Ultimately, this service strives to enable individuals with disabilities to embrace and enjoy healthier lives. 💚💛
 
-## ✨FUNCTION 
+## ✨FUNCTIONS
 
-| Exercise Recommendation | We recommend personalized exercise for physically disabled people, based on the physical information they provided |
+| Function | Detail |
 |----|---|
+| Exercise Recommendation | We recommend personalized exercise for physically disabled people, based on the physical information they provided |
 | Bookmark | Users can add preferred exercises to their bookmark list |
 | Exercise Detail | Users are provided with detailed informaton additional to the name of the exercise, such as difficulty, description and caution |
 | ToCalendar(plannedtime) | Users can see, add or delete their plans from the calendar |
