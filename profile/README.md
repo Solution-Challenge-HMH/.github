@@ -8,7 +8,7 @@ Exercise recommendation and schedule management application for the physical di
 
 
 
-## BACK GROUND
+## *BACK GROUND
 
 ### (1) Test Method (Emulator)
 
@@ -44,14 +44,14 @@ Exercise recommendation and schedule management application for the physical di
 |~02.21| Development|
 
 
-## HMH - TEAM MEMBER
+## *HMH - TEAM MEMBER
 |JeongHyun LEE|SuHyun CHOI|MinSeo SON|MinGyeong SONG|
 |------|---|---|-----|
 |Backend|Backend|Frontend|Frontend|
 
 from Ewha Woman University 
 
-## Target UN-SDGs 17 
+## *Target UN-SDGs 17 
 ### 3. Good Health and Well-Being
 
 ![image 22 (2)](https://github.com/Solution-Challenge-HMH/every-health-android/assets/110734087/81169e36-148c-4ee0-ab26-88ec8a576e8b)
@@ -72,7 +72,12 @@ However, the current landscape of exercise services primarily caters to those wi
 
 In response, our service aims to enhance health accessibility by providing personalized exercise recommendations based on users' physical characteristics and disability types. Furthermore, the exercise history calendar empowers users to efficiently manage and enhance their exercise plans. Ultimately, this service strives to enable individuals with disabilities to embrace and enjoy healthier lives. 💚💛
 
-## IMPLEMENTATION
+## *FUNCTION 
+
+(explain - include some data) 
+
+
+## *IMPLEMENTATION
 - Spring Boot
   
 - MySQL
@@ -87,9 +92,6 @@ In response, our service aims to enhance health accessibility by providing perso
 
 - Kotlin
 
-## 
 
-(explain - include some data) 
-
-## DEMO
-(Link? -)
+## DEMO VIDEO
+[Watch the VIDEO](https://youtu.be/Oa4Ahn5jxvA?si=S6r09PAkPja_Aum5)
