@@ -6,7 +6,9 @@
 Exercise recommendation and schedule management application for the physical disabilities 👩‍🦽👨‍🦽
 
 
-## BACKGROUND
+
+
+## BACK GROUND
 
 ### (1) Test Method (Emulator)
 
