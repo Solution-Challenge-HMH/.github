@@ -5,6 +5,32 @@
 
 Exercise recommendation and schedule management application for the physical disabilities 👩‍🦽👨‍🦽
 
+
+## BACKGROUND
+
+### (1) Test Method (Emulator)
+
+- apk 위치 : app/release/app-release.apk
+
+
+- After running emulator in Android studio, you can install apk with drag & drop (안드로이드 스튜디오에서 애뮬레이터 실행 후 드래그 & 드롭으로 apk 설치 가능 )
+
+
+- Run the Every-health app after moving the menu (메뉴 이동 후 Every-health 앱 실행)
+
+
+
+### (2) Test Method (Physical Device)
+- Build in Android Studio after connecting to a physical device (실제 기기 연결 후 안드로이드 스튜디오에서 빌드)
+
+
+### (3) Development and testing environments (개발 및 테스트 환경)
+
+- 개발환경 : Android Studio, API 34
+
+
+- 테스트 환경 : Emulator - Pixel 3a API 34, Android 14 OS
+
 ---
 
 📅2024.01.~2024.02 
