@@ -75,6 +75,7 @@ In response, our service aims to enhance health accessibility by providing perso
 ## ✨FUNCTION 
 
 | Exercise Recommendation | We recommend personalized exercise for physically disabled people, based on the physical information they provided |
+|----|---|
 | Bookmark | Users can add preferred exercises to their bookmark list |
 | Exercise Detail | Users are provided with detailed informaton additional to the name of the exercise, such as difficulty, description and caution |
 | ToCalendar(plannedtime) | Users can see, add or delete their plans from the calendar |
