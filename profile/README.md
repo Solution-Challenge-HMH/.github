@@ -12,7 +12,7 @@ Exercise recommendation and schedule management application for the physical di
 
 ### (1) Test Method (Emulator)
 
-- APK location : app/release/app-release.apk or [move to release URL](https://github.com/Solution-Challenge-HMH/.github/releases/tag/v1.1.0)
+- APK location : app/release/app-release.apk or [move to release URL](https://github.com/Solution-Challenge-HMH/.github/releases/tag/v1.1.0) and download it
 
 
 - After running emulator in Android studio, you can install apk with drag & drop (안드로이드 스튜디오에서 애뮬레이터 실행 후 드래그 & 드롭으로 apk 설치 가능 )
