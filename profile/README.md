@@ -76,6 +76,7 @@ In response, our service aims to enhance health accessibility by providing perso
 
 | Function | Detail |
 |----|---|
+| UserInformation | We received usable areas of body and physical ability level from “unable to sit” to “able to run” information from the user for personal exercise recommendation |
 | Exercise Recommendation | We recommend personalized exercise for physically disabled people, based on the physical information they provided |
 | Bookmark | Users can add preferred exercises to their bookmark list |
 | Exercise Detail | Users are provided with detailed informaton additional to the name of the exercise, such as difficulty, description and caution |
@@ -101,4 +102,4 @@ In response, our service aims to enhance health accessibility by providing perso
 
 
 ## ✨DEMO VIDEO
-[Watch the VIDEO](https://youtu.be/Oa4Ahn5jxvA?si=S6r09PAkPja_Aum5)
+[Watch the VIDEO OF EVERY-HEALTH!](https://youtu.be/Oa4Ahn5jxvA?si=S6r09PAkPja_Aum5)
