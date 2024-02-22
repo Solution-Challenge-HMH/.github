@@ -43,7 +43,7 @@ Exercise recommendation and schedule management application for the physical di
 |~01.24| Organization of the exercise data|
 |~02.21| Development|
 
----
+
 ## ✨HMH - TEAM MEMBER
 |JeongHyun LEE|SuHyun CHOI|MinSeo SON|MinGyeong SONG|
 |------|---|---|-----|
