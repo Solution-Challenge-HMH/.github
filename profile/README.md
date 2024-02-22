@@ -9,7 +9,7 @@ Exercise recommendation and schedule management application for the physical di
 
 
 
-## *BACK GROUND
+## ✨BACK GROUND
 
 ### (1) Test Method (Emulator)
 
@@ -44,15 +44,15 @@ Exercise recommendation and schedule management application for the physical di
 |~01.24| Organization of the exercise data|
 |~02.21| Development|
 
-
-## *HMH - TEAM MEMBER
+---
+## ✨HMH - TEAM MEMBER
 |JeongHyun LEE|SuHyun CHOI|MinSeo SON|MinGyeong SONG|
 |------|---|---|-----|
 |Backend|Backend|Frontend|Frontend|
 
 from Ewha Woman University 
 
-## *Target UN-SDGs 17 
+## ✨Target UN-SDGs 17 
 ### 3. Good Health and Well-Being
 
 ![image 22 (2)](https://github.com/Solution-Challenge-HMH/every-health-android/assets/110734087/81169e36-148c-4ee0-ab26-88ec8a576e8b)
@@ -64,7 +64,7 @@ from Ewha Woman University
 
 : In terms of health and wellbeing, EVERY-HEALTH will alleviates inequality between poeple with physical disabilities and thoes who do not.
 
-## SOLUTION
+## ✨SOLUTION
 Ensuring easy access to a healthy lifestyle is essential for everyone. Ideally, individuals, regardless of disability, should effortlessly engage with their physical conditions and receive personalized exercise recommendations. Effectively managing and recording exercise plans should also be a seamless process.
 
 
@@ -73,12 +73,17 @@ However, the current landscape of exercise services primarily caters to those wi
 
 In response, our service aims to enhance health accessibility by providing personalized exercise recommendations based on users' physical characteristics and disability types. Furthermore, the exercise history calendar empowers users to efficiently manage and enhance their exercise plans. Ultimately, this service strives to enable individuals with disabilities to embrace and enjoy healthier lives. 💚💛
 
-## *FUNCTION 
+## ✨FUNCTION 
 
-(explain - include some data) 
+| Exercise Recommendation | We recommend personalized exercise for physically disabled people, based on the physical information they provided |
+| Bookmark | Users can add preferred exercises to their bookmark list |
+| Exercise Detail | Users are provided with detailed informaton additional to the name of the exercise, such as difficulty, description and caution |
+| ToCalendar(plannedtime) | Users can see, add or delete their plans from the calendar |
+| Progressbar(donetime) | User can add the time they actually performed the exercise and it’s shown in the progress bar |
+| Stopwatch | This feature can make it easier for users to check the time they exercised |
 
 
-## *IMPLEMENTATION
+## ✨IMPLEMENTATION
 - Spring Boot
   
 - MySQL
@@ -94,5 +99,5 @@ In response, our service aims to enhance health accessibility by providing perso
 - Kotlin
 
 
-## DEMO VIDEO
+## ✨DEMO VIDEO
 [Watch the VIDEO](https://youtu.be/Oa4Ahn5jxvA?si=S6r09PAkPja_Aum5)
